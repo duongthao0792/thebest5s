@@ -1,6 +1,5 @@
 function getData(){
 	var dataAMZ = {
-	: {US: "",CA: "",UK: ""},
 	B00CH9QWOU: {US: "https://amzn.to/32iuHZ4",CA: "https://amzn.to/3gprFH2",UK: ""},
 	B01G6Q45AM: {US: "https://amzn.to/313UUKs",CA: "https://amzn.to/2NjGBZT",UK: ""},
 	B07JH7GS76: {US: "https://amzn.to/307WQzt",CA: "https://amzn.to/2AfqjOG",UK: ""},
